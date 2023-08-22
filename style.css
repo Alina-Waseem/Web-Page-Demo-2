@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+}
+a {
+    text-decoration: none;
+   color:  white;
+   font-size: 20px;
+   
+}
+
+#header{
+    height: 50px;
+    margin-top: 10px;
+}
+
+.head{
+    height: 400px;
+    background-color: #13274F;
+}
+#inner {
+    height: 10px;
+    width: 1000px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 50px;
+    margin-left: 100px;
+
+}
+button{
+    background-color:#13274F ;
+    color : white;
+    border-radius: 100px;
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    border-color: white;
+}
+.Features{
+    font-size: 50px;
+    font-weight: 100px;
+}
+.foot{
+    height: 150px;
+    background-color: #13274F;
+    color: white;
+    padding-top: 10px;
+}
